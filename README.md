@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ashirvad001/Leetcode/tree/master/0001-two-sum) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashirvad001/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashirvad001/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ashirvad001/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
