@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ashirvad001/Leetcode/tree/master/0016-3sum-closest) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashirvad001/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/ashirvad001/Leetcode/tree/master/0118-pascals-triangle) |
+| [0209-minimum-size-subarray-sum](https://github.com/ashirvad001/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ashirvad001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0706-design-hashmap](https://github.com/ashirvad001/Leetcode/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ashirvad001/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ashirvad001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/ashirvad001/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/ashirvad001/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -104,4 +106,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ashirvad001/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ashirvad001/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/ashirvad001/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
