@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ashirvad001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashirvad001/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0706-design-hashmap](https://github.com/ashirvad001/Leetcode/tree/master/0706-design-hashmap) |
+| [0904-fruit-into-baskets](https://github.com/ashirvad001/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashirvad001/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Tree
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/ashirvad001/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/ashirvad001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0706-design-hashmap](https://github.com/ashirvad001/Leetcode/tree/master/0706-design-hashmap) |
+| [0904-fruit-into-baskets](https://github.com/ashirvad001/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ashirvad001/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0904-fruit-into-baskets](https://github.com/ashirvad001/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
