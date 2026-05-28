@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ashirvad001/Leetcode/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/ashirvad001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ashirvad001/Leetcode/tree/master/0414-third-maximum-number) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashirvad001/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashirvad001/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/ashirvad001/Leetcode/tree/master/0414-third-maximum-number) |
 | [0706-design-hashmap](https://github.com/ashirvad001/Leetcode/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/ashirvad001/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashirvad001/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ashirvad001/Leetcode/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashirvad001/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ashirvad001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0977-squares-of-a-sorted-array](https://github.com/ashirvad001/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Queue
 |  |
 | ------- |
