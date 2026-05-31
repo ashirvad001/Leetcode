@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ashirvad001/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ashirvad001/Leetcode/tree/master/0016-3sum-closest) |
 | [0349-intersection-of-two-arrays](https://github.com/ashirvad001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ashirvad001/Leetcode/tree/master/0414-third-maximum-number) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashirvad001/Leetcode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/ashirvad001/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ashirvad001/Leetcode/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/ashirvad001/Leetcode/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashirvad001/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ashirvad001/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ashirvad001/Leetcode/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashirvad001/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ashirvad001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
