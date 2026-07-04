@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ashirvad001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashirvad001/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashirvad001/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ashirvad001/Leetcode/tree/master/0567-permutation-in-string) |
 | [0706-design-hashmap](https://github.com/ashirvad001/Leetcode/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/ashirvad001/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/ashirvad001/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/ashirvad001/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashirvad001/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashirvad001/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ashirvad001/Leetcode/tree/master/0567-permutation-in-string) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashirvad001/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Two Pointers
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ashirvad001/Leetcode/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashirvad001/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/ashirvad001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/ashirvad001/Leetcode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashirvad001/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Queue
 |  |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ashirvad001/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashirvad001/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/ashirvad001/Leetcode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/ashirvad001/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ashirvad001/Leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Prefix Sum
