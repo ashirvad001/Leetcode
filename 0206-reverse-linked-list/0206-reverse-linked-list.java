@@ -14,10 +14,10 @@ class Solution {
         ListNode prev=null;
 
         while(current!=null){
-           ListNode next=current.next; 
+           ListNode temp=current.next; 
             current.next=prev;          
             prev=current;               
-            current=next;
+            current=temp;
         }
         return prev;
     }
