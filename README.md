@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ashirvad001/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0706-design-hashmap](https://github.com/ashirvad001/Leetcode/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ashirvad001/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashirvad001/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Counting
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/ashirvad001/Leetcode/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/ashirvad001/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/ashirvad001/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
