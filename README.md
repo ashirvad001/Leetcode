@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashirvad001/Leetcode/tree/master/0020-valid-parentheses) |
 | [0290-word-pattern](https://github.com/ashirvad001/Leetcode/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashirvad001/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ashirvad001/Leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ashirvad001/Leetcode/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/ashirvad001/Leetcode/tree/master/0143-reorder-list) |
 | [0225-implement-stack-using-queues](https://github.com/ashirvad001/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashirvad001/Leetcode/tree/master/0232-implement-queue-using-stacks) |
