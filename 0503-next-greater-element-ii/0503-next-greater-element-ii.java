@@ -1,0 +1,25 @@
+class Solution {
+    public int[] nextGreaterElements(int[] nums) {
+        Stack<Integer> stack=new Stack<>();
+
+        int n=nums.length;
+        int ans[]=new int[n];
+
+        for(int i=2*n-1;i>=0;i--){
+            int current=nums[i % n];
+
+            while(!stack.isEmpty() && stack.peek()<=current){
+                stack.pop();
+            }
+            if(i<n){
+                if(stack.isEmpty()){
+                    ans[i]=-1;
+                }else{
+                    ans[i]=stack.peek();
+                }
+            }
+            stack.push(current);
+        }
+        return ans;
+    }
+}
