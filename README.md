@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/ashirvad001/Leetcode/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/ashirvad001/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashirvad001/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ashirvad001/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/ashirvad001/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/ashirvad001/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ashirvad001/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ashirvad001/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashirvad001/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/ashirvad001/Leetcode/tree/master/0148-sort-list) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ashirvad001/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/ashirvad001/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ashirvad001/Leetcode/tree/master/0118-pascals-triangle) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashirvad001/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ashirvad001/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/ashirvad001/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ashirvad001/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/ashirvad001/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0918-maximum-sum-circular-subarray](https://github.com/ashirvad001/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Counting
 |  |
 | ------- |
@@ -238,4 +242,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ashirvad001/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashirvad001/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashirvad001/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/ashirvad001/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
