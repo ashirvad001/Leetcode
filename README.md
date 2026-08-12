@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ashirvad001/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ashirvad001/Leetcode/tree/master/0016-3sum-closest) |
 | [0036-valid-sudoku](https://github.com/ashirvad001/Leetcode/tree/master/0036-valid-sudoku) |
+| [0042-trapping-rain-water](https://github.com/ashirvad001/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ashirvad001/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/ashirvad001/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/ashirvad001/Leetcode/tree/master/0118-pascals-triangle) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashirvad001/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ashirvad001/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/ashirvad001/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/ashirvad001/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ashirvad001/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ashirvad001/Leetcode/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ashirvad001/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/ashirvad001/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/ashirvad001/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ashirvad001/Leetcode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/ashirvad001/Leetcode/tree/master/0148-sort-list) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ashirvad001/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ashirvad001/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/ashirvad001/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/ashirvad001/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/ashirvad001/Leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -258,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ashirvad001/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/ashirvad001/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ashirvad001/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/ashirvad001/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
