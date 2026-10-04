@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ashirvad001/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashirvad001/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ashirvad001/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/ashirvad001/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ashirvad001/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ashirvad001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/ashirvad001/Leetcode/tree/master/0414-third-maximum-number) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/ashirvad001/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ashirvad001/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/ashirvad001/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/ashirvad001/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ashirvad001/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ashirvad001/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/ashirvad001/Leetcode/tree/master/0567-permutation-in-string) |
